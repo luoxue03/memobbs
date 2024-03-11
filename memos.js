@@ -17,7 +17,7 @@ var memoDefaultList = [
     "link": "https://memos.luoxue03.cn",
     "creatorId": "1",
     "avatar": "https://fastly.jsdelivr.net/gh/luoxue03/ImagesHost/PIC/sxj219.ico?s=80",
-    "twikoo": ""
+    "twikoo": " "
   }
 ];
 
